@@ -128,7 +128,7 @@
     "script-loader": "0.7.2",
     "semver": "5.4.1",
     "serve-static": "^1.13.2",
-    "shelljs": "0.7.8",
+    "shelljs": "0.8.5",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
     "svg-sprite-loader": "4.1.3",
